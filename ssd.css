@@ -1,0 +1,41 @@
+/* SSG - 15.01.2001 01:06 */
+/* DG - 12.07.2001 22:20 */
+BODY {
+    background-color: #C5C5C5;
+    font: 8pt Verdana;
+    margin: 20px;
+    color: black;
+  }
+  
+  TD {
+    font-size: 8pt;
+    vertical-align: top;
+  }
+  
+  A {
+    text-decoration: none;
+    color: #404040;
+  }
+  
+  .logo {
+    width: 198px;
+    height: 150px;
+  }
+  
+  A:Hover {
+    text-decoration: underline;
+  }
+  
+  UL {
+    list-style-type: lower-roman;
+  }
+  
+  .list {
+    list-style-type: circle;
+  }
+  
+  .text {
+    font-family: Times New Roman;
+    font-size: 12pt;
+    font-style: italic;
+  }
